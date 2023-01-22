@@ -1,4 +1,4 @@
-                                                                     Domain –OTT Platform
+                                                             Domain –OTT Platform
 Overview
 
 Over the past two decades, there has been a monumental shift in how people access and consume video content. With the universal access to broadband internet, numerous platforms like YouTube, Netflix, and HBO Go emerged and steadily grew to prominence. Although not a household name in itself, OTT is the exact technology that made the streaming revolution possible.
